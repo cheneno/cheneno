@@ -4,7 +4,7 @@
 
 ## Github Stats
 
-<div style="display: flex;" align="center">
+<div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=cheneno&layout=compact&count_private=true&show_icons=true&theme=github_dark
 &hide_border=true" style="height: 192px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheneno&layout=compact&count_private=true&theme=github_dark&hide_
